@@ -108,9 +108,3 @@ Windscribe supports:
   - IP after VPN.
 
 ---
-
-
----
-
-## Repo Description (for GitHub):  
-✅ Task 8 - VPN Setup using Windscribe. Explored VPN features, privacy protections, encryption, and limitations. Includes screenshots and detailed report.
