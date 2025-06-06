@@ -28,12 +28,12 @@
 
 - **Before VPN:**  
   - Visited [https://whatismyipaddress.com](https://whatismyipaddress.com)  
-  - **Original IP:** *(write your original IP country here, e.g., India)*  
+  - **Original IP:** *( 49.43.XXX.XXX	)*  
   - Screenshot:  
     ![IP Before VPN](screenshots/ip_before.png)
 
 - **After VPN:**  
-  - IP changed to **Germany**. *(or whichever country you selected)*  
+  - IP changed to **Netherlands**.
   - Screenshot:  
     ![IP After VPN](screenshots/ip_after.png)
 
